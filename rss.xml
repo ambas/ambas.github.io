@@ -1,1 +1,194 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://ambas.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Apr 2019 06:24:06 GMT</lastBuildDate><item><title><![CDATA[Hello World]]></title><description><![CDATA[Try new blog here]]></description><link>https://ambas.github.io//hello-world/</link><guid isPermaLink="false">https://ambas.github.io//hello-world/</guid><pubDate>Mon, 15 Apr 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;Try new blog here&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://ambas.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Apr 2019 08:39:17 GMT</lastBuildDate><item><title><![CDATA[Foundation - Isaac Asimov]]></title><description><![CDATA[สถาบันสถาปนา - Isaac Asimov จากที่ซื้อมามีทั้งหมด…]]></description><link>https://ambas.github.io//foundation/</link><guid isPermaLink="false">https://ambas.github.io//foundation/</guid><pubDate>Mon, 11 Mar 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;สถาบันสถาปนา - Isaac Asimov&lt;/h3&gt;
+&lt;p&gt;จากที่ซื้อมามีทั้งหมด 3 เล่ม เพิ่งอ่านเล่มแรกจบ ก็เลยเขียนถึง
+จริงๆเคยได้ยินชื่อหนังสือนี้นานแล้ว แต่ก็เพิ่งจะมีพิมพ์ออกมาใหม่เป็น box set สวยงามทีเดียว&lt;/p&gt;
+&lt;p&gt;ตอนแรกคิดว่าจะเป็นนิยายวิทยาศาสตร์แฟนตาซี หรือดราม่า แบบที่เคยๆอ่านมา
+ที่ไหนได้นี่มันหนังสือ การเมือง ปรัชญาและการวางแผนชัดๆ&lt;/p&gt;
+&lt;p&gt;หนังสือเล่าถึงโลกอนาคตที่ไกลมากๆ มนุษย์อยู่ตามดวงดาวต่างๆ
+และก็มีนักคณิตศาสตร์คนนึงที่คิดค้นวิชาที่ชื่อ อนาคตประวัติศาสตร์ ซึ่งสามารถใช้คณิตศาสตร์ เพื่อทำนายอนาคตได้อย่างแม่นยำ
+คำทำนายแรกๆเลยนั่นก็คือ การที่มนุษย์ต้องสร้างอนานิคมใหม่ขึ้นมา ชื่อ สถาบันสถาปนา เพื่อที่จะเป็นอาณาจักรที่รุ่งเรืองในอนาคต
+สิ่งที่ชอบมากๆของเล่มนี้คือ การนำเอาสามประเด็นมาร้อยเรียงต่อกันได้อย่างน่าสนใจ นั่นคือ
+การทูต ศาสนา และการค้า สามสิ่งที่สามารถใช้เป็นอาวุทเพื่อที่จะทำให้บรรลุเป้าหมายที่สถาบันสถาปนาต้องการ&lt;/p&gt;
+&lt;p&gt;อ่านเล่มนี้จบแล้วทำให้นึกถึงสิ่งที่ CEO ของอโกด้าพูดเอาไว้เมื่อ Town hall ครั้งล่าสุดเลย
+ที่บอกว่า เราไม่สามารถทำสิ่งเดิมๆ แล้วมันจะให้ผลลัพธ์เหมือนเดิมได้ตลอดไปหรอก
+มันอาจจะให้ผลที่ดีในช่วงแรก แต่เมื่อเวลาผ่านไปมันจะไม่เวิร์ค (หรือไม่เวิร์คเหมือนเดิม)
+ยังเหลืออีกสองเล่มที่รอให้อ่าน แต่คิดว่าคงจะพักไว้ก่อน จัดการเล่มอื่นที่อ่านค้างอยู่ให้จบก่อน&lt;/p&gt;
+&lt;p&gt;สิ่งที่ไม่ชอบเลยของหนังสือชุดนี้คือ การแปลที่โคตรจะใช้ภาษาที่โบราณ แบบทำให้นึกถึงคำที่ใช้ในละครบุพเพสันนิวาสเลยอ่ะ มันก็ให้อารมณ์อีกแบบนะ แต่ถึงอย่างนั้นก็รู้สึกว่ามันขัดความรู้สึกเกินไปหน่อย&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/85fae10316b822d42f539df441afe590/0a443/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeW2VyxALXkrOAX/xAAcEAEAAQQDAAAAAAAAAAAAAAABAAIQEjERIUH/2gAIAQEAAQUCDJwbU7dQOYnU8hP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAABBQAAAAAAAAAAAAAAAAAAEBEwMTL/2gAIAQEABj8CW2NQf//EABwQAAICAwEBAAAAAAAAAAAAAAABESEQMVFB8P/aAAgBAQABPyF7FwXZEEqqz0kvucO1K8PQhYaH/9oADAMBAAIAAwAAABDk9U//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxAh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QhT//xAAdEAEBAQEAAgMBAAAAAAAAAAABEQAhMWFBUXGh/9oACAEBAAE/EDFBFrmN9J3QKc45FpDj6ZchULL/ABrVV69wHwC1njWFFMBmFN2PzQ+t4d//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cover&quot;
+        title=&quot;&quot;
+        src=&quot;/static/85fae10316b822d42f539df441afe590/c739e/cover.jpg&quot;
+        srcset=&quot;/static/85fae10316b822d42f539df441afe590/8ee9c/cover.jpg 148w,
+/static/85fae10316b822d42f539df441afe590/ebbe7/cover.jpg 295w,
+/static/85fae10316b822d42f539df441afe590/c739e/cover.jpg 590w,
+/static/85fae10316b822d42f539df441afe590/5413e/cover.jpg 885w,
+/static/85fae10316b822d42f539df441afe590/4efde/cover.jpg 1180w,
+/static/85fae10316b822d42f539df441afe590/0a443/cover.jpg 1536w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Konbini Ningen - Sakaya Murata]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io//glossary/</link><guid isPermaLink="false">https://ambas.github.io//glossary/</guid><pubDate>Sat, 09 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h4&gt;มนุษย์ร้านสะดวกซื้อ&lt;/h4&gt;
+&lt;p&gt;เป็นนิยายที่เล่มไม่หนาเลย แต่อ่านจบแล้วทำให้เราตั้งคำถามเยอะมาก ทั้งเรื่องของความเป็นปัจเจก หรือเรื่องของการงาน&lt;/p&gt;
+&lt;p&gt;ทำให้เราได้คิดและก็รู้สึกชัดขึ้นว่าสังคมรอบตัวเราชอบตัดสินคนอื่นกันมากแค่ไหน ทั้งโดยที่เราต่างรู้ตัวหรือไม่รู้ตัว ความต่างจากสังคมแค่เพียงนิดเดียวก็อาจทำให้เราถูกขับไล่ออกจากคนส่วนมากได้ง่ายๆ&lt;/p&gt;
+&lt;p&gt;หรือว่ามันคือสิ่งที่ถูกฝังมาในยีนส์ของเรากันนะ หรือว่าเรื่องพวกนี้ไม่ใช่ความแปลกประหลาดอะไรเลย&lt;/p&gt;
+&lt;p&gt;อีกเรื่องที่น่าสนใจจากเล่มนี้คือเรื่องของการงาน กับคำถามที่ว่าเราถ้าเราลบสิ่งที่เรียกว่าอาชีพออกไปจากตัวเราแล้ว เรายังเป็นเราอยู่หรือเปล่า  หรือเอาจริงๆมนุษย์เราก็ขอแค่มีสิ่งยึดเหนี่ยวไว้เพื่อไม่ให้ถูกเหวียงหลุดออกไปจากความคาดหวังของสังคมและคนรอบข้าง&lt;/p&gt;
+&lt;p&gt;รวมๆก็สนุกดี และสั้นมากๆอ่านคืนเดียวก็จบได้เลย ถือว่าเป็นเล่มที่โอเคในการอ่านแก้เลี่ยนจากพวกหนังสือหนักๆ&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/54abc883a1bd6dc2b1923b300845301d/0ac40/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHj2w2bkHKe3JMMQH//xAAbEAEAAgIDAAAAAAAAAAAAAAABAhEAEgMQIP/aAAgBAQABBQKJacexkM16ilLG/H//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAABBAMAAAAAAAAAAAAAAAAAARAhMREgYf/aAAgBAQAGPwIWafDdLjX/xAAdEAACAwACAwAAAAAAAAAAAAABEQAhMRBRQWFx/9oACAEBAAE/IaRr3KyP15im6KJqEgXQIhFzadt6gKhuyh2oOf/aAAwDAQACAAMAAAAQCwzy/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8Qgz//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QK//EABsQAQEBAQEBAQEAAAAAAAAAAAERACFBMXHw/9oACAEBAAE/EDsnPFzIKiziM9YoZpj985mHpSvn9N0HOMx5JfBYDMQfYMNmm6peb61x83//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;cover&quot;
+        title=&quot;&quot;
+        src=&quot;/static/54abc883a1bd6dc2b1923b300845301d/c739e/cover.jpg&quot;
+        srcset=&quot;/static/54abc883a1bd6dc2b1923b300845301d/8ee9c/cover.jpg 148w,
+/static/54abc883a1bd6dc2b1923b300845301d/ebbe7/cover.jpg 295w,
+/static/54abc883a1bd6dc2b1923b300845301d/c739e/cover.jpg 590w,
+/static/54abc883a1bd6dc2b1923b300845301d/5413e/cover.jpg 885w,
+/static/54abc883a1bd6dc2b1923b300845301d/0ac40/cover.jpg 1134w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Elon Musk - Ashlee Vance]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io//elon/</link><guid isPermaLink="false">https://ambas.github.io//elon/</guid><pubDate>Sun, 03 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/beef764f4a18192611a801091df97197/70dde/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.9217935349322%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAeK9FJUpos//xAAZEAACAwEAAAAAAAAAAAAAAAABAgARMhL/2gAIAQEAAQUCGnUKINV0J//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAABAAUXH/2gAIAQEABj8CmtH/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhEDFx/9oACAEBAAE/IehCRixfONIJoOQiH//aAAwDAQACAAMAAAAQ1x//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAJ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABwQAQEBAAEFAAAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxDgoovJ5zNZiRwB5n3BKSr36ZQNmLWejFm//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;logo&quot;
+        title=&quot;&quot;
+        src=&quot;/static/beef764f4a18192611a801091df97197/c739e/cover.jpg&quot;
+        srcset=&quot;/static/beef764f4a18192611a801091df97197/8ee9c/cover.jpg 148w,
+/static/beef764f4a18192611a801091df97197/ebbe7/cover.jpg 295w,
+/static/beef764f4a18192611a801091df97197/c739e/cover.jpg 590w,
+/static/beef764f4a18192611a801091df97197/5413e/cover.jpg 885w,
+/static/beef764f4a18192611a801091df97197/4efde/cover.jpg 1180w,
+/static/beef764f4a18192611a801091df97197/abfc3/cover.jpg 1770w,
+/static/beef764f4a18192611a801091df97197/70dde/cover.jpg 1918w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“ตอนที่หนังสือเล่มนี้ถึงมือคุณ เป็นไปได้มากว่ามัสก์กับสเปซเอกซ์ จะร่อนจรวดลงจอดบนเรือบรรทุกลางทะเล หรือกลับมาที่แท่นปล่อยในฟลอริดาได้แล้ว”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;เป็นประโยคท้ายๆของหนังสือเล่มนี้ซึ่งทั้งสองอย่างที่ว่ามันก็สำเร็จจริงๆในปี 2015 กับปี 2016&lt;/p&gt;
+&lt;p&gt;อ่านเล่มนี้จบให้ความรู้สึกคล้ายๆกับตอนที่อ่านหนังสือประวัติของสตีฟจ็อบจบ แต่ด้วยความรู้สึกว่าไม่อยากที่จะให้เป็นแบบสตีฟจ็อบอีกแล้ว นั่นคือจ็อบตายไปแล้วเราเพิ่งจะได้มาอ่านประวัติเขา&lt;/p&gt;
+&lt;p&gt;สำหรับอีลอน มัสก์ก็เลยตั้งใจว่าถ้ามีโอกาศก็อยากจะรีบอ่านประวัติของแกให้ได้ ซึ่งก็มีหลายๆส่วนจริงๆที่มัสก์ก็คล้ายๆกับจ็อบ    &lt;/p&gt;
+&lt;p&gt;ไม่แน่ก็ได้ว่าคนที่จะทำอะไรสำเร็จขนาดนี้อย่างน้อยก็ต้องบ้ากว่าคนธรรมดาอยู่บ้างล่ะ หรืออาจต้องผสมส่วนร้ายๆที่บางคนอาจจะไม่ชอบเข้าไปด้วยบ้างล่ะ&lt;/p&gt;
+&lt;p&gt;บางคนก็เหมือนยังไม่เชื่อเท่าไหร่ว่าสิ่งที่อีลอนโม้ไว้จะทำได้จริงๆ ทั้งเรื่อง Tesla หรือ SpaceX แต่มันก็สนุกตรงนี้ที่ว่า อย่างน้อยเราก็ยังได้ติดตามข่าวคราวของทั้งสองบริษัทอย่างต่อเนื่อง &lt;/p&gt;
+&lt;p&gt;อ่านเล่มนี้เข้าไปก็เหมือนทำให้ยิ่งอินเข้าไปอีกว่าในอนาคตที่จะถึงนี้จะมีอะไรเกิดขึ้นมาบ้างนะ โลกอนาคตมันจะหน้าตาเป็นยังไงกันนะ&lt;/p&gt;
+&lt;p&gt;ถ้าให้เทียบจริงๆพระเอกของเล่มนี้คงเป็น SpaceX มากกว่า Tesla รู้สึกอินจริงๆกับความพยายามของมนุษย์ที่จะปล่อยจรวดขึ้นไป เอาชนะแรงโน้มถ่วงของโลก หรือแม้แต่สิ่งที่คนหลายๆคนบอกว่าไม่มีทางทำได้ แต่มัสก์ก็บ้าพอที่จะพูดว่า มันจะเป็นไปได้ในช่วงชีวิตของเรานี่แหละ&lt;/p&gt;
+&lt;p&gt;พอได้เห็นสิ่งที่เขาพูดค่อยๆเป็นจริงๆที่ละอย่างๆ (แม้จะช้ากว่ากรอบเวลาที่แกเคยบอกไปเยอะ) มันก็ทำให้รู้สึกว่ามันเป็นอะไรที่โคตรเท่เลยนะ ที่คนเราจะตั้งเป้าหมายที่เหมือนจะเป็นไปไม่ได้เอาไว้ แล้วค่อยๆไล่ตามสิ่งนั้นไปที่ละก้าวๆแบบนี้ &lt;/p&gt;
+&lt;p&gt;อ่านจบแล้วก็รู้สึกมีไฟที่จะทำงานขึ้นมานิดหน่อยนะ ถึงแม้การเขียนแอพมันจะไม่ได้ยิ่งใหญ่เหมือนการปล่อยจรวดก็เถอะนะ&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Killing Commendatore - Haruki Murakami]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work…]]></description><link>https://ambas.github.io//murakami/</link><guid isPermaLink="false">https://ambas.github.io//murakami/</guid><pubDate>Sat, 26 Jan 2019 22:12:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a4843736aad644fb02abc70eb8706838/19033/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.90852064819656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABy2l7opIkP//EABsQAQABBQEAAAAAAAAAAAAAAAIAAQMREiIy/9oACAEBAAEFAh6vDUw16ayZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEQESEiQlH/2gAIAQEABj8CRrHB51vH/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIXEQMWH/2gAIAQEAAT8hHZVexMoLWqOCBnaW3USJP//aAAwDAQACAAMAAAAQFO//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QEX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMUFRcZHB/9oACAEBAAE/EA54jYBjyEAc7OXzqJGGMimwagSDShJutVUaXzP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;logo&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a4843736aad644fb02abc70eb8706838/c739e/cover.jpg&quot;
+        srcset=&quot;/static/a4843736aad644fb02abc70eb8706838/8ee9c/cover.jpg 148w,
+/static/a4843736aad644fb02abc70eb8706838/ebbe7/cover.jpg 295w,
+/static/a4843736aad644fb02abc70eb8706838/c739e/cover.jpg 590w,
+/static/a4843736aad644fb02abc70eb8706838/5413e/cover.jpg 885w,
+/static/a4843736aad644fb02abc70eb8706838/4efde/cover.jpg 1180w,
+/static/a4843736aad644fb02abc70eb8706838/abfc3/cover.jpg 1770w,
+/static/a4843736aad644fb02abc70eb8706838/19033/cover.jpg 1913w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;เล่มแรกของปีนี้ ปีนี้มีความตั้งใจว่าจะพยายามเขียนถึงหนังสือที่อ่านจบทุกเล่มให้ได้ อย่างน้อยจะได้เขียนอะไรออกมาบ้างหลังจากที่ไม่ได้เขียนอะไรเลยมาพักใหญ่ๆแล้ว&lt;/p&gt;
+&lt;p&gt;Killing Commendatore  เล่มนี้น่าจะเป็นนิยายเล่มล่าสุดของมุราคามิ แต่ว่ายังไม่มีสัมนักพิมพ์ไหนแปลสักที ก็เลยอาจหาญอ่านเวอร์ชั่นภาษาอังกฤษไปเลยละกัน ก็ถือว่ายังโชคดี่ที่เข็นให้อ่านจนจบได้ รู้สึกมีความต่างนิดหน่อยเวลาอ่านที่เป็นเวอร์ชั่นภาษาอังกฤษ ส่วนตัวรู้สึกชอบสำนวนของมุราคิที่แปลออกมาเป็นภาษาไทยแล้วมากกว่า ไม่แน่ใจเหมือนกันว่าทำไม&lt;/p&gt;
+&lt;p&gt;หลังจากที่อ่านงานเขียนของมุราคามิมาเป็นเวลานานเหมือนกัน เลยรู้สึกว่าเล่มนี้เฮียแกพยายามจะใส่อะไรหลายๆอย่างลงมาทำให้นึกถึงเรื่องก่อนๆพอสมควร แต่ที่ชัดๆเลยแทบจะเรียนกว่าบูชาครูคงจะได้คงเป็นพล็อทที่ถอดออกมาจาก The Great Gatsby ของ F. Scott Fitzgerald อ่านๆไปยังคิดเลยว่า เฮียเอางี้เลยหรอ&lt;/p&gt;
+&lt;p&gt;แต่สุดท้ายก็ไม่พ้นสไตล์มุราคามิ ทุกอย่างถูกตีกลับมาในโลกที่คล้ายๆเดิมที่เป็นแบบฉบับของมุราคามิก็ว่าได้ โลกที่แม่งโคตรเหงา โคตรเจ็บปวด การถูกนอกใจ และการนอนกับเมียชาวบ้าน (ฮาๆ)  และโลกที่แสนประหลาด (เช่นมนุษย์ที่หลุดออกมาจากรูปวาด?) ถึงตัวละครจะทำนิ่งครึมจนคิดว่าถ้าเป็นคนแบบนี้ได้บ้างก็คงดี แต่ไม่เป็นจะดีกว่า เพราะเชื่อเหลือเกินว่าความปวดร้าวของตัวละครพวกนั้นมันต้องกัดกินความรู้สึกภายในจนแทบจะทนไม่ไหวแล้วแน่ๆ&lt;/p&gt;
+&lt;p&gt;สรุปเนื้อหาโดยรวมเล่มนี้คงพยายามที่จะพูดถึงเรื่องราว ความจริงหรือประวัติศาสตร์บางอย่าง ที่อาจจะดีกว่าที่จะปล่อยให้มันเป็นเช่นนั้น อยู่ในหลุมลึกที่ไม่มีใครควรจะต้องหยิบยกมันขึ้นมาเพื่อหาความหมายใดๆอีก บางครั้งบางที การอยู่กับปัจจุบัน โดยลืมคำถามบางคำถามไปนั่นอาจจะเป็นหนทางที่มนุษย์เราจะสามารถใช้ชีวิตต่อไปได้อย่างปกติสุขก็ได้ (อย่าได้ไว้ใจใครก็ตามที่บอกว่าตัวเองเป็นคนปกติทั่วไปเด็ดขาด มุราคามิบอก) &lt;/p&gt;
+&lt;p&gt;ไม่แน่เหมือนกันว่าจากเรื่องราวที่ถูกร้อยเรียงเป็นนิยายหนาเกือบ 700 หน้าเล่มนี้อาจต้องการแค่ถ่ายเรื่องราว และความรู้สึกที่มุราคามิมีต่อเหตุการณ์การสังหารหมู่นานกิงในสมัยสงครามโลกครั้งที่สองก็ได้&lt;/p&gt;
+&lt;p&gt;ทุกครั้งเลยเหมือนกันหลังจากที่อ่านนิยายของมุราคามิจบก็คือความรู้สึกโล่งใจที่อ่านจนจบเสียที บวกกับเกร็ดความคิดบางอย่างที่คล้ายๆว่าจะจับต้องไม่ได้ แต่พอเอามาคิดต่อให้ดีดีแล้วก็พบว่าเป็นเรื่องที่ไม่ยากนักเท่าไหร่ที่จะทำความเข้าใจ (ทำให้สงสัยว่าจะเขียนยืดยาวทำไม =..=)  แต่ก็คงเป็นเสน่ หรือเอกลักษณ์ของเขาเองล่ะมั้ง&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Curiosity always involves risk. You can’t satisfy your curiosity without  accepting some risk. Curiosity didn’t just kill the cat”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“There are plenty of things in history that are best left in the shadows. Accurate knowledge does not improve people’s lives.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Pain was a metaphor”&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>
