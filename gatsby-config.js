@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     title: `Ambas's Blog`,
     author: `Ambas Chobsanti`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Ambas's Blog`,
     siteUrl: `https://ambas.github.io/`,
     social: {
       twitter: `basdemon`,
