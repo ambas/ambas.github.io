@@ -41,7 +41,7 @@ function Bio() {
               Written by <strong>{author}</strong> iOS developer at Agoda
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                You can follow me on Twitter
               </a>
             </p>
           </div>
