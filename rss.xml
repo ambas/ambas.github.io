@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas's Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://ambas.github.io/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 14 Apr 2019 08:39:17 GMT</lastBuildDate><item><title><![CDATA[Foundation - Isaac Asimov]]></title><description><![CDATA[สถาบันสถาปนา - Isaac Asimov จากที่ซื้อมามีทั้งหมด…]]></description><link>https://ambas.github.io//foundation/</link><guid isPermaLink="false">https://ambas.github.io//foundation/</guid><pubDate>Mon, 11 Mar 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;สถาบันสถาปนา - Isaac Asimov&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas's Blog]]></title><description><![CDATA[Ambas's Blog]]></description><link>https://ambas.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Aug 2020 17:13:35 GMT</lastBuildDate><item><title><![CDATA[The Cat Who Loved to Protect Books]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”]]></description><link>https://ambas.github.io/the-cat-who-love/</link><guid isPermaLink="false">https://ambas.github.io/the-cat-who-love/</guid><pubDate>Mon, 24 Aug 2020 22:12:20 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/36ce577792d445619e789e0cceddcf8b/a2510/cover.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 590px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAdMqzKdUn//EABcQAAMBAAAAAAAAAAAAAAAAAAECAwD/2gAIAQEAAQUCqSJydi2opZJyZTv/xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwEz/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/ATF//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEBFB/9oACAEBAAY/AlJXtsQlV8z/xAAZEAEAAgMAAAAAAAAAAAAAAAABABEQITH/2gAIAQEAAT8hZykgtZfTHZpgkG228f/aAAwDAQACAAMAAAAQ48//xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAEDAQE/EJpuFf/EABYRAQEBAAAAAAAAAAAAAAAAABExEP/aAAgBAgEBPxCZXP/EABwQAQEAAgIDAAAAAAAAAAAAAAERACEQMUFx0f/aAAgBAQABPxBUZiJ7xYxoR7S8SN1ys85v5xCmb+8f/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;logo&quot;
+        title=&quot;&quot;
+        src=&quot;/static/36ce577792d445619e789e0cceddcf8b/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/36ce577792d445619e789e0cceddcf8b/a80bd/cover.jpg 148w,
+/static/36ce577792d445619e789e0cceddcf8b/1c91a/cover.jpg 295w,
+/static/36ce577792d445619e789e0cceddcf8b/1c72d/cover.jpg 590w,
+/static/36ce577792d445619e789e0cceddcf8b/a8a14/cover.jpg 885w,
+/static/36ce577792d445619e789e0cceddcf8b/a2510/cover.jpg 1000w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Foundation - Isaac Asimov]]></title><description><![CDATA[สถาบันสถาปนา - Isaac Asimov จากที่ซื้อมามีทั้งหมด…]]></description><link>https://ambas.github.io/foundation/</link><guid isPermaLink="false">https://ambas.github.io/foundation/</guid><pubDate>Mon, 11 Mar 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h3&gt;สถาบันสถาปนา - Isaac Asimov&lt;/h3&gt;
 &lt;p&gt;จากที่ซื้อมามีทั้งหมด 3 เล่ม เพิ่งอ่านเล่มแรกจบ ก็เลยเขียนถึง
 จริงๆเคยได้ยินชื่อหนังสือนี้นานแล้ว แต่ก็เพิ่งจะมีพิมพ์ออกมาใหม่เป็น box set สวยงามทีเดียว&lt;/p&gt;
 &lt;p&gt;ตอนแรกคิดว่าจะเป็นนิยายวิทยาศาสตร์แฟนตาซี หรือดราม่า แบบที่เคยๆอ่านมา
@@ -16,7 +53,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/85fae10316b822d42f539df441afe590/0a443/cover.jpg&quot;
+    href=&quot;/static/85fae10316b822d42f539df441afe590/ac99c/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -28,27 +65,27 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeW2VyxALXkrOAX/xAAcEAEAAQQDAAAAAAAAAAAAAAABAAIQEjERIUH/2gAIAQEAAQUCDJwbU7dQOYnU8hP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAABBQAAAAAAAAAAAAAAAAAAEBEwMTL/2gAIAQEABj8CW2NQf//EABwQAAICAwEBAAAAAAAAAAAAAAABESEQMVFB8P/aAAgBAQABPyF7FwXZEEqqz0kvucO1K8PQhYaH/9oADAMBAAIAAwAAABDk9U//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxAh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QhT//xAAdEAEBAQEAAgMBAAAAAAAAAAABEQAhMWFBUXGh/9oACAEBAAE/EDFBFrmN9J3QKc45FpDj6ZchULL/ABrVV69wHwC1njWFFMBmFN2PzQ+t4d//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeW2VyxALXkrOAX/xAAcEAEAAQQDAAAAAAAAAAAAAAABAAIQEjERIUH/2gAIAQEAAQUCDJwbU7dQOYnU8hP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAABBQAAAAAAAAAAAAAAAAAAEBEwMTL/2gAIAQEABj8CW2NQf//EABwQAAICAwEBAAAAAAAAAAAAAAABESEQMVFB8P/aAAgBAQABPyF7FwXZEEqqz0kvucO1K8PQhYaH/9oADAMBAAIAAwAAABDk9U//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxAh/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QhT//xAAdEAEBAQACAgMAAAAAAAAAAAABEQAhMVFhQXGh/9oACAEBAAE/EDFBFrmN9JzoFPDkWkOPplxCoWX8a1VeXnAfALWdawopgMwpuY+tDxunf//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;cover&quot;
         title=&quot;&quot;
-        src=&quot;/static/85fae10316b822d42f539df441afe590/c739e/cover.jpg&quot;
-        srcset=&quot;/static/85fae10316b822d42f539df441afe590/8ee9c/cover.jpg 148w,
-/static/85fae10316b822d42f539df441afe590/ebbe7/cover.jpg 295w,
-/static/85fae10316b822d42f539df441afe590/c739e/cover.jpg 590w,
-/static/85fae10316b822d42f539df441afe590/5413e/cover.jpg 885w,
-/static/85fae10316b822d42f539df441afe590/4efde/cover.jpg 1180w,
-/static/85fae10316b822d42f539df441afe590/0a443/cover.jpg 1536w&quot;
+        src=&quot;/static/85fae10316b822d42f539df441afe590/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/85fae10316b822d42f539df441afe590/a80bd/cover.jpg 148w,
+/static/85fae10316b822d42f539df441afe590/1c91a/cover.jpg 295w,
+/static/85fae10316b822d42f539df441afe590/1c72d/cover.jpg 590w,
+/static/85fae10316b822d42f539df441afe590/a8a14/cover.jpg 885w,
+/static/85fae10316b822d42f539df441afe590/fbd2c/cover.jpg 1180w,
+/static/85fae10316b822d42f539df441afe590/ac99c/cover.jpg 1536w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Konbini Ningen - Sakaya Murata]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io//glossary/</link><guid isPermaLink="false">https://ambas.github.io//glossary/</guid><pubDate>Sat, 09 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h4&gt;มนุษย์ร้านสะดวกซื้อ&lt;/h4&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Konbini Ningen - Sakaya Murata]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io/glossary/</link><guid isPermaLink="false">https://ambas.github.io/glossary/</guid><pubDate>Sat, 09 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;h4&gt;มนุษย์ร้านสะดวกซื้อ&lt;/h4&gt;
 &lt;p&gt;เป็นนิยายที่เล่มไม่หนาเลย แต่อ่านจบแล้วทำให้เราตั้งคำถามเยอะมาก ทั้งเรื่องของความเป็นปัจเจก หรือเรื่องของการงาน&lt;/p&gt;
 &lt;p&gt;ทำให้เราได้คิดและก็รู้สึกชัดขึ้นว่าสังคมรอบตัวเราชอบตัดสินคนอื่นกันมากแค่ไหน ทั้งโดยที่เราต่างรู้ตัวหรือไม่รู้ตัว ความต่างจากสังคมแค่เพียงนิดเดียวก็อาจทำให้เราถูกขับไล่ออกจากคนส่วนมากได้ง่ายๆ&lt;/p&gt;
 &lt;p&gt;หรือว่ามันคือสิ่งที่ถูกฝังมาในยีนส์ของเรากันนะ หรือว่าเรื่องพวกนี้ไม่ใช่ความแปลกประหลาดอะไรเลย&lt;/p&gt;
@@ -57,7 +94,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/54abc883a1bd6dc2b1923b300845301d/0ac40/cover.jpg&quot;
+    href=&quot;/static/54abc883a1bd6dc2b1923b300845301d/095fc/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -69,29 +106,29 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHj2w2bkHKe3JMMQH//xAAbEAEAAgIDAAAAAAAAAAAAAAABAhEAEgMQIP/aAAgBAQABBQKJacexkM16ilLG/H//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAABBAMAAAAAAAAAAAAAAAAAARAhMREgYf/aAAgBAQAGPwIWafDdLjX/xAAdEAACAwACAwAAAAAAAAAAAAABEQAhMRBRQWFx/9oACAEBAAE/IaRr3KyP15im6KJqEgXQIhFzadt6gKhuyh2oOf/aAAwDAQACAAMAAAAQCwzy/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8Qgz//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QK//EABsQAQEBAQEBAQEAAAAAAAAAAAERACFBMXHw/9oACAEBAAE/EDsnPFzIKiziM9YoZpj985mHpSvn9N0HOMx5JfBYDMQfYMNmm6peb61x83//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 133.1081081081081%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAHj2q+bkHKe3JMMQH//xAAbEAACAgMBAAAAAAAAAAAAAAABAgARAxASIP/aAAgBAQABBQJRZGPoRJzpStErfj//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAABBAMAAAAAAAAAAAAAAAAAARAhMREgYf/aAAgBAQAGPwIWafDdLjX/xAAdEAACAwACAwAAAAAAAAAAAAABEQAhMRBRQWFx/9oACAEBAAE/IaRr3KyP15im6KJqEgXQIhFzYd96gKhuyh0qDn//2gAMAwEAAgADAAAAECsE8v/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EIM//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8QIf/EABwQAQEBAQEBAAMAAAAAAAAAAAERACFBMVFx8P/aAAgBAQABPxA7JzxTMgqLOIz1izNMfvzmYelK+f00EfhmNJK5LAZiCVDDZp7KXm+tcfN//9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;cover&quot;
         title=&quot;&quot;
-        src=&quot;/static/54abc883a1bd6dc2b1923b300845301d/c739e/cover.jpg&quot;
-        srcset=&quot;/static/54abc883a1bd6dc2b1923b300845301d/8ee9c/cover.jpg 148w,
-/static/54abc883a1bd6dc2b1923b300845301d/ebbe7/cover.jpg 295w,
-/static/54abc883a1bd6dc2b1923b300845301d/c739e/cover.jpg 590w,
-/static/54abc883a1bd6dc2b1923b300845301d/5413e/cover.jpg 885w,
-/static/54abc883a1bd6dc2b1923b300845301d/0ac40/cover.jpg 1134w&quot;
+        src=&quot;/static/54abc883a1bd6dc2b1923b300845301d/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/54abc883a1bd6dc2b1923b300845301d/a80bd/cover.jpg 148w,
+/static/54abc883a1bd6dc2b1923b300845301d/1c91a/cover.jpg 295w,
+/static/54abc883a1bd6dc2b1923b300845301d/1c72d/cover.jpg 590w,
+/static/54abc883a1bd6dc2b1923b300845301d/a8a14/cover.jpg 885w,
+/static/54abc883a1bd6dc2b1923b300845301d/095fc/cover.jpg 1134w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Elon Musk - Ashlee Vance]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io//elon/</link><guid isPermaLink="false">https://ambas.github.io//elon/</guid><pubDate>Sun, 03 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Elon Musk - Ashlee Vance]]></title><description><![CDATA[…]]></description><link>https://ambas.github.io/elon/</link><guid isPermaLink="false">https://ambas.github.io/elon/</guid><pubDate>Sun, 03 Feb 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/beef764f4a18192611a801091df97197/70dde/cover.jpg&quot;
+    href=&quot;/static/beef764f4a18192611a801091df97197/3ed48/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -103,21 +140,20 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.9217935349322%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAeK9FJUpos//xAAZEAACAwEAAAAAAAAAAAAAAAABAgARMhL/2gAIAQEAAQUCGnUKINV0J//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAABAAUXH/2gAIAQEABj8CmtH/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhEDFx/9oACAEBAAE/IehCRixfONIJoOQiH//aAAwDAQACAAMAAAAQ1x//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAJ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABwQAQEBAAEFAAAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxDgoovJ5zNZiRwB5n3BKSr36ZQNmLWejFm//9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAeK9FJUpos//xAAZEAACAwEAAAAAAAAAAAAAAAABAgARMhL/2gAIAQEAAQUCGnUKINV0J//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAABAAUXH/2gAIAQEABj8CmtH/xAAaEAADAQADAAAAAAAAAAAAAAAAAREhEDFx/9oACAEBAAE/IehCRixfONIJoOQiH//aAAwDAQACAAMAAAAQ1x//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAJ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QZ//EABwQAQEBAAEFAAAAAAAAAAAAAAERACExQVFhof/aAAgBAQABPxDgoovJ5zNZiRwB5n3BKSr36ZQJLFrPRizf/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;logo&quot;
         title=&quot;&quot;
-        src=&quot;/static/beef764f4a18192611a801091df97197/c739e/cover.jpg&quot;
-        srcset=&quot;/static/beef764f4a18192611a801091df97197/8ee9c/cover.jpg 148w,
-/static/beef764f4a18192611a801091df97197/ebbe7/cover.jpg 295w,
-/static/beef764f4a18192611a801091df97197/c739e/cover.jpg 590w,
-/static/beef764f4a18192611a801091df97197/5413e/cover.jpg 885w,
-/static/beef764f4a18192611a801091df97197/4efde/cover.jpg 1180w,
-/static/beef764f4a18192611a801091df97197/abfc3/cover.jpg 1770w,
-/static/beef764f4a18192611a801091df97197/70dde/cover.jpg 1918w&quot;
+        src=&quot;/static/beef764f4a18192611a801091df97197/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/beef764f4a18192611a801091df97197/a80bd/cover.jpg 148w,
+/static/beef764f4a18192611a801091df97197/1c91a/cover.jpg 295w,
+/static/beef764f4a18192611a801091df97197/1c72d/cover.jpg 590w,
+/static/beef764f4a18192611a801091df97197/a8a14/cover.jpg 885w,
+/static/beef764f4a18192611a801091df97197/fbd2c/cover.jpg 1180w,
+/static/beef764f4a18192611a801091df97197/3ed48/cover.jpg 1918w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -136,13 +172,13 @@
 &lt;p&gt;อ่านเล่มนี้เข้าไปก็เหมือนทำให้ยิ่งอินเข้าไปอีกว่าในอนาคตที่จะถึงนี้จะมีอะไรเกิดขึ้นมาบ้างนะ โลกอนาคตมันจะหน้าตาเป็นยังไงกันนะ&lt;/p&gt;
 &lt;p&gt;ถ้าให้เทียบจริงๆพระเอกของเล่มนี้คงเป็น SpaceX มากกว่า Tesla รู้สึกอินจริงๆกับความพยายามของมนุษย์ที่จะปล่อยจรวดขึ้นไป เอาชนะแรงโน้มถ่วงของโลก หรือแม้แต่สิ่งที่คนหลายๆคนบอกว่าไม่มีทางทำได้ แต่มัสก์ก็บ้าพอที่จะพูดว่า มันจะเป็นไปได้ในช่วงชีวิตของเรานี่แหละ&lt;/p&gt;
 &lt;p&gt;พอได้เห็นสิ่งที่เขาพูดค่อยๆเป็นจริงๆที่ละอย่างๆ (แม้จะช้ากว่ากรอบเวลาที่แกเคยบอกไปเยอะ) มันก็ทำให้รู้สึกว่ามันเป็นอะไรที่โคตรเท่เลยนะ ที่คนเราจะตั้งเป้าหมายที่เหมือนจะเป็นไปไม่ได้เอาไว้ แล้วค่อยๆไล่ตามสิ่งนั้นไปที่ละก้าวๆแบบนี้ &lt;/p&gt;
-&lt;p&gt;อ่านจบแล้วก็รู้สึกมีไฟที่จะทำงานขึ้นมานิดหน่อยนะ ถึงแม้การเขียนแอพมันจะไม่ได้ยิ่งใหญ่เหมือนการปล่อยจรวดก็เถอะนะ&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Killing Commendatore - Haruki Murakami]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work…]]></description><link>https://ambas.github.io//murakami/</link><guid isPermaLink="false">https://ambas.github.io//murakami/</guid><pubDate>Sat, 26 Jan 2019 22:12:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;อ่านจบแล้วก็รู้สึกมีไฟที่จะทำงานขึ้นมานิดหน่อยนะ ถึงแม้การเขียนแอพมันจะไม่ได้ยิ่งใหญ่เหมือนการปล่อยจรวดก็เถอะนะ&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Killing Commendatore - Haruki Murakami]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work…]]></description><link>https://ambas.github.io/murakami/</link><guid isPermaLink="false">https://ambas.github.io/murakami/</guid><pubDate>Sat, 26 Jan 2019 22:12:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a4843736aad644fb02abc70eb8706838/19033/cover.jpg&quot;
+    href=&quot;/static/a4843736aad644fb02abc70eb8706838/3d662/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -154,21 +190,20 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 74.90852064819656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABy2l7opIkP//EABsQAQABBQEAAAAAAAAAAAAAAAIAAQMREiIy/9oACAEBAAEFAh6vDUw16ayZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEQESEiQlH/2gAIAQEABj8CRrHB51vH/8QAGxABAAICAwAAAAAAAAAAAAAAAQARIXEQMWH/2gAIAQEAAT8hHZVexMoLWqOCBnaW3USJP//aAAwDAQACAAMAAAAQFO//xAAWEQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QEX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMUFRcZHB/9oACAEBAAE/EA54jYBjyEAc7OXzqJGGMimwagSDShJutVUaXzP/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABy2l7opIkP//EABoQAQACAwEAAAAAAAAAAAAAAAIAEQEDIjL/2gAIAQEAAQUCHrcKMOemrM//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAACAQUAAAAAAAAAAAAAAAAAARARISJCUf/aAAgBAQAGPwJGscHnW8f/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhcRAxYf/aAAgBAQABPyEdlV6RM4LWqOCBnaW3USJP/9oADAMBAAIAAwAAABAU7//EABYRAAMAAAAAAAAAAAAAAAAAAAEQMf/aAAgBAwEBPxARf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EAB0QAAICAgMBAAAAAAAAAAAAAAERACExQVFxkcH/2gAIAQEAAT8QDmiNhg8hEHOzl86iRhjIpsGoEg0oSbrVVGl8z//Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;logo&quot;
         title=&quot;&quot;
-        src=&quot;/static/a4843736aad644fb02abc70eb8706838/c739e/cover.jpg&quot;
-        srcset=&quot;/static/a4843736aad644fb02abc70eb8706838/8ee9c/cover.jpg 148w,
-/static/a4843736aad644fb02abc70eb8706838/ebbe7/cover.jpg 295w,
-/static/a4843736aad644fb02abc70eb8706838/c739e/cover.jpg 590w,
-/static/a4843736aad644fb02abc70eb8706838/5413e/cover.jpg 885w,
-/static/a4843736aad644fb02abc70eb8706838/4efde/cover.jpg 1180w,
-/static/a4843736aad644fb02abc70eb8706838/abfc3/cover.jpg 1770w,
-/static/a4843736aad644fb02abc70eb8706838/19033/cover.jpg 1913w&quot;
+        src=&quot;/static/a4843736aad644fb02abc70eb8706838/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/a4843736aad644fb02abc70eb8706838/a80bd/cover.jpg 148w,
+/static/a4843736aad644fb02abc70eb8706838/1c91a/cover.jpg 295w,
+/static/a4843736aad644fb02abc70eb8706838/1c72d/cover.jpg 590w,
+/static/a4843736aad644fb02abc70eb8706838/a8a14/cover.jpg 885w,
+/static/a4843736aad644fb02abc70eb8706838/fbd2c/cover.jpg 1180w,
+/static/a4843736aad644fb02abc70eb8706838/3d662/cover.jpg 1913w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
