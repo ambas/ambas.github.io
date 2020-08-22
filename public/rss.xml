@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas's Blog]]></title><description><![CDATA[Ambas's Blog]]></description><link>https://ambas.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Aug 2020 17:07:16 GMT</lastBuildDate><item><title><![CDATA[The Cat Who Loved to Protect Books]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”]]></description><link>https://ambas.github.io/the-cat-who-love/</link><guid isPermaLink="false">https://ambas.github.io/the-cat-who-love/</guid><pubDate>Mon, 24 Aug 2020 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ambas's Blog]]></title><description><![CDATA[Ambas's Blog]]></description><link>https://ambas.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 22 Aug 2020 17:15:17 GMT</lastBuildDate><item><title><![CDATA[The Cat Who Loved to Protect Books]]></title><description><![CDATA[“Time steals some things, but it gives us back others. Making time our ally is an important part of our work”]]></description><link>https://ambas.github.io/the-cat-who-love/</link><guid isPermaLink="false">https://ambas.github.io/the-cat-who-love/</guid><pubDate>Mon, 24 Aug 2020 22:12:20 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1e4b4f3ec3d24774e1a5491791501ee1/a2510/cover.jpg&quot;
+    href=&quot;/static/36ce577792d445619e789e0cceddcf8b/a2510/cover.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -13,19 +13,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAdiK6NWkE//EABcQAQEBAQAAAAAAAAAAAAAAAAIDAQD/2gAIAQEAAQUCtumUaLX1jrnKKK7/xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwEz/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/ATF//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEBEh/9oACAEBAAY/AlJXtsQlV55n/8QAGRABAQADAQAAAAAAAAAAAAAAAREAECEx/9oACAEBAAE/IXFiYOUtpr0PcHnp1uv/2gAMAwEAAgADAAAAEPPP/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARUf/aAAgBAwEBPxCabhX/xAAWEQEBAQAAAAAAAAAAAAAAAAARMRD/2gAIAQIBAT8QmVz/xAAcEAEBAAICAwAAAAAAAAAAAAABEQAhEEFhcdH/2gAIAQEAAT8QY6YiezE/mCTaXxxELXKzvN80IU7H7x//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAdMqzKdUn//EABcQAAMBAAAAAAAAAAAAAAAAAAECAwD/2gAIAQEAAQUCqSJydi2opZJyZTv/xAAVEQEBAAAAAAAAAAAAAAAAAAACEP/aAAgBAwEBPwEz/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/ATF//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEBFB/9oACAEBAAY/AlJXtsQlV8z/xAAZEAEAAgMAAAAAAAAAAAAAAAABABEQITH/2gAIAQEAAT8hZykgtZfTHZpgkG228f/aAAwDAQACAAMAAAAQ48//xAAXEQADAQAAAAAAAAAAAAAAAAABEBFR/9oACAEDAQE/EJpuFf/EABYRAQEBAAAAAAAAAAAAAAAAABExEP/aAAgBAgEBPxCZXP/EABwQAQEAAgIDAAAAAAAAAAAAAAERACEQMUFx0f/aAAgBAQABPxBUZiJ7xYxoR7S8SN1ys85v5xCmb+8f/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;logo&quot;
         title=&quot;&quot;
-        src=&quot;/static/1e4b4f3ec3d24774e1a5491791501ee1/1c72d/cover.jpg&quot;
-        srcset=&quot;/static/1e4b4f3ec3d24774e1a5491791501ee1/a80bd/cover.jpg 148w,
-/static/1e4b4f3ec3d24774e1a5491791501ee1/1c91a/cover.jpg 295w,
-/static/1e4b4f3ec3d24774e1a5491791501ee1/1c72d/cover.jpg 590w,
-/static/1e4b4f3ec3d24774e1a5491791501ee1/a8a14/cover.jpg 885w,
-/static/1e4b4f3ec3d24774e1a5491791501ee1/a2510/cover.jpg 1000w&quot;
+        src=&quot;/static/36ce577792d445619e789e0cceddcf8b/1c72d/cover.jpg&quot;
+        srcset=&quot;/static/36ce577792d445619e789e0cceddcf8b/a80bd/cover.jpg 148w,
+/static/36ce577792d445619e789e0cceddcf8b/1c91a/cover.jpg 295w,
+/static/36ce577792d445619e789e0cceddcf8b/1c72d/cover.jpg 590w,
+/static/36ce577792d445619e789e0cceddcf8b/a8a14/cover.jpg 885w,
+/static/36ce577792d445619e789e0cceddcf8b/a2510/cover.jpg 1000w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
